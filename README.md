@@ -37,7 +37,3 @@ Result
 
 The Linear Regression model achieved 92.94% R² accuracy, showing strong predictive performance for housing prices.
 
-Author
-
-Khushiram Kumawat
-B.Tech CSE (AI/ML) | Data Analyst & Machine Learning Enthusiast
